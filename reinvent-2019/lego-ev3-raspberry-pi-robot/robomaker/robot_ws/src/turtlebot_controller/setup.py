@@ -26,7 +26,7 @@ setup(
         'PyYAML==4.2b1',
         'scipy==0.19.0',
         'scikit-image==0.13.0',
-        'tensorflow==1.12.0',
+        'tensorflow==2.5.3',
         'rospkg==1.1.7',
         'awsiotpythonsdk==1.4.7'
     ]
